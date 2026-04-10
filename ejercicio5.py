@@ -3,6 +3,7 @@ print("merge local")
 print("cambio uno rama")
 print("cambio 2 rama")
 
+
 print("\n\tEscape Room:La Arena del Gladiador")
 
 vida_gladiador = 100 
