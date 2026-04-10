@@ -1,3 +1,6 @@
+print("cambio uno rama")
+print("cambio 2 rama")
+
 print("\n\tEscape Room:La Arena del Gladiador")
 
 vida_gladiador = 100 
@@ -74,3 +77,6 @@ if vida_gladiador > 0:
     print(f"\n¡VICTORIA! {nombre_gladiador} ha ganado la batalla.")
 else:
     print("\nDERROTA. Has caído en combate.")
+
+
+print("cambio 3")
